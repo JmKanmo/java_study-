@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ByteBufTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-06T09:04:44" hostname="DESKTOP-L5O6DA4" time="0.109">
+  <properties/>
+  <testcase name="testBuffer1()" classname="ByteBufTest" time="0.07"/>
+  <testcase name="testBuffer2()" classname="ByteBufTest" time="0.001"/>
+  <testcase name="testBuffer3()" classname="ByteBufTest" time="0.013"/>
+  <testcase name="testBuffer5()" classname="ByteBufTest" time="0.0"/>
+  <testcase name="compositeByteBufferTest()" classname="ByteBufTest" time="0.022"/>
+  <system-out><![CDATA[helho gu
+1
+1
+false
+0
+255 25 44334
+999 h
+999 h
+13 21
+999 j
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
